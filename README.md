@@ -9,6 +9,8 @@
 **目录 Catalogue：** 
 
 - [MySQL](#MySQL)
+- [Redis](#Redis)
+- [Linux](#Linux)
 - [反馈与改进](#反馈及改进)
 - [参与贡献](#参与贡献)
 
@@ -16,6 +18,10 @@
 
 - [InnoDB与MyISAM的区别](./MySQL/InnoDB与MyISAM的区别.md)
 - [主键自增继续编or重新编](./MySQL/主键自增继续编or重新编.md)
+
+# Redis
+
+- [缓存穿透、缓存击穿与缓存雪崩](./Redis/缓存穿透、缓存击穿与缓存雪崩.md)
 
 
 
