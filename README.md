@@ -11,6 +11,7 @@
 - [MySQL](#MySQL)
 - [Redis](#Redis)
 - [JVM](#JVM)
+- [Java集合](./Java集合)
 - [Linux](#Linux)
 - [反馈与改进](#反馈及改进)
 - [参与贡献](#参与贡献)
@@ -27,6 +28,10 @@
 # JVM
 
 - [对象的四种引用](./JVM/对象的四种引用.md)
+
+# Java集合
+
+- [各种Map的区别](./Java集合/各种Map的区别.md)
 
 # Linux
 
