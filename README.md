@@ -30,6 +30,7 @@
 
 - [对象的四种引用](./JVM/对象的四种引用.md)
 - [JVM内存分布](./JVM/JVM内存分布.md)
+- [JVM为什么要分代GC](./JVM/JVM为什么要分代GC.md)
 
 # Java集合
 
