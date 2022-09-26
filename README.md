@@ -8,13 +8,16 @@
 
 **目录 Catalogue：** 
 
-- [🎈MySQL](#🎈MySQL)
+- [MySQL](#MySQL)
 - [反馈与改进](#反馈及改进)
 - [参与贡献](#参与贡献)
 
-# 🎈MySQL
+# MySQL
 
 - [InnoDB与MyISAM的区别](./MySQL/InnoDB与MyISAM的区别.md)
+- [主键自增继续编or重新编](./MySQL/主键自增继续编or重新编.md)
+
+
 
 
 
