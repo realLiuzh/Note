@@ -40,6 +40,7 @@
 - [GCROOTS](./JVM/GCROOTS.md)
 - [双亲委派机制是什么](./JVM/双亲委派机制是什么.md)
 - [如何打破双亲委派](./JVM/如何打破双亲委派.md)
+- [CMS的特点](./JVM/CMS)
 
 # Java集合
 
