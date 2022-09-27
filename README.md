@@ -42,6 +42,7 @@
 - [如何打破双亲委派](./JVM/如何打破双亲委派.md)
 - [CMS的特点](./JVM/CMS)
 - [CMS过程](./JVM/CMS过程.md)
+- [G1特点](./JVM/G1特点.md)
 
 # Java集合
 
