@@ -11,7 +11,7 @@
 - [MySQL](#MySQL)
 - [Redis](#Redis)
 - [JVM](#JVM)
-- [Java集合](./Java集合)
+- [Java集合](#Java集合)
 - [Java并发](#Java并发)
 - [Linux](#Linux)
 - [反馈与改进](#反馈及改进)
@@ -33,6 +33,7 @@
 - [JVM为什么要分代GC](./JVM/JVM为什么要分代GC.md)
 - [标记整理比标记复制慢](./JVM/标记整理比标记复制慢.md)
 - [新生代与老年代GC算法的选择](./JVM/新生代与老年代GC算法的选择)
+- [三种GC算法的优劣](./JVM/三种GC算法的优劣.md)
 
 # Java集合
 
