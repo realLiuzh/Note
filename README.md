@@ -44,6 +44,7 @@
 - [CMS过程](./JVM/CMS过程.md)
 - [G1特点](./JVM/G1特点.md)
 - [跨代引用](./JVM/跨代引用.md)
+- [G1过程](./JVM/G1过程.md)
 
 # Java集合
 
