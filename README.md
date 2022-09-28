@@ -50,6 +50,7 @@
 # Java集合
 
 - [各种Map的区别](./Java集合/各种Map的区别.md)
+- [equals()&hashcode()](./Java集合/equals()&hashcode().md)
 
 # Java并发
 
