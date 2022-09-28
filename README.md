@@ -13,7 +13,9 @@
 - [JVM](#JVM)
 - [Java集合](#Java集合)
 - [Java并发](#Java并发)
+- [设计模式](#设计模式)
 - [Linux](#Linux)
+- [其它](./其它)
 - [反馈与改进](#反馈及改进)
 - [参与贡献](#参与贡献)
 
@@ -46,20 +48,31 @@
 - [跨代引用](./JVM/跨代引用.md)
 - [G1过程](./JVM/G1过程.md)
 - [JVM参数](./JVM/J)
+- [类加载机制](./JVM/类加载机制.md)
 
 # Java集合
 
 - [各种Map的区别](./Java集合/各种Map的区别.md)
 - [equals()&hashcode()](./Java集合/equals()&hashcode().md)
+- [ArrayList&LinkedList](./Java集合/ArrayList&LinkedList.md)
 
 # Java并发
 
 - [同步异步阻塞非阻塞](./并发/同步异步阻塞非阻塞.md)
 - [保证线程安全的方式](./JVM/保证线程安全的方式.md)
+- [Java内存模型](./并发/Java内存模型.md)
+
+# 设计模式
+
+- [单例模式](./设计模式/单例模式.md)
 
 # Linux
 
 - [Linux常见命令](./Linux/Linux常见命令.md)
+
+# 其它
+
+- [反射代理](./其它/反射代理.md)
 
 # 笔记问题
 
