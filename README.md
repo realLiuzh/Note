@@ -43,6 +43,7 @@
 - [CMS的特点](./JVM/CMS)
 - [CMS过程](./JVM/CMS过程.md)
 - [G1特点](./JVM/G1特点.md)
+- [跨代引用](./JVM/跨代引用.md)
 
 # Java集合
 
