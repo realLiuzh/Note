@@ -31,10 +31,13 @@
 
 - [InnoDB与MyISAM的区别](./MySQL/InnoDB与MyISAM的区别.md)
 - [主键自增继续编or重新编](./MySQL/主键自增继续编or重新编.md)
+- [MySQL优化手段](./MySQL/MySQL优化手段.md)
 
 # Redis
 
 - [缓存穿透、缓存击穿与缓存雪崩](./Redis/缓存穿透、缓存击穿与缓存雪崩.md)
+- [键过期策略](./Redis/键过期策略.md)
+- [内存淘汰策略](./Redis/内存淘汰策略.md)
 
 # JVM
 
