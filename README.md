@@ -72,7 +72,7 @@
 # 其它
 
 - [反射代理](./其它/反射代理.md)
-- [为什么重写equals()时要重写hashcode()](./Java集合/为什么重写equals()时要重写hashcode().md)
+- [为什么重写equals()时要重写hashcode()](./其它/为什么重写equals()时要重写hashcode().md)
 
 # 笔记问题
 
