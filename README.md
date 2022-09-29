@@ -64,6 +64,7 @@
 - [ArrayList&LinkedList](./Java集合/ArrayList&LinkedList.md)
 - [HashMap.put()](./Java集合/HashMapput().md)
 - [HashMap扩容时机](./Java集合/HashMap扩容时机.md)
+- [HashMap1.8的优化](./Java集合/HashMap1.8的优化.md)
 
 # Java并发
 
@@ -77,6 +78,7 @@
 - [线程池创建方法](./并发/线程池创建方法.md)
 - [线程池生命周期](./并发/线程池生命周期.md)
 - [线程池执行流程](./并发/线程池执行流程.md)
+- [线程池参数设置](./Java并发/线程池参数设置.md)
 
 # 设计模式
 
