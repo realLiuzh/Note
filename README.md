@@ -32,6 +32,7 @@
 - [InnoDB与MyISAM的区别](./MySQL/InnoDB与MyISAM的区别.md)
 - [主键自增继续编or重新编](./MySQL/主键自增继续编or重新编.md)
 - [MySQL优化手段](./MySQL/MySQL优化手段.md)
+- [MySQL三大范式](./MySQL/MySQL三大范式.md)
 
 # Redis
 
