@@ -63,6 +63,7 @@
 - [各种Map的区别](./Java集合/各种Map的区别.md)
 - [ArrayList&LinkedList](./Java集合/ArrayList&LinkedList.md)
 - [HashMap.put()](./Java集合/HashMapput().md)
+- [HashMap扩容时机](./Java集合/HashMap扩容时机.md)
 
 # Java并发
 
