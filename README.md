@@ -3,6 +3,14 @@
 <p align="center">
   <a href="https://github.com">
   <img src="https://img.shields.io/badge/MySQL-github-blue.svg" alt="github"></a>
+   <a href="https://github.com">
+  <img src="https://img.shields.io/badge/Redis-github-black.svg" alt="github"></a>
+   <a href="https://github.com">
+  <img src="https://img.shields.io/badge/JVM-github-green.svg" alt="github"></a>
+   <a href="https://github.com">
+  <img src="https://img.shields.io/badge/并发-github-red.svg" alt="github"></a>
+   <a href="https://github.com">
+  <img src="https://img.shields.io/badge/Linux-github-white.svg" alt="github"></a>
 </p>
 
 
