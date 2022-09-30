@@ -41,6 +41,9 @@
 - [主键自增继续编or重新编](./MySQL/主键自增继续编or重新编.md)
 - [MySQL优化手段](./MySQL/MySQL优化手段.md)
 - [MySQL三大范式](./MySQL/MySQL三大范式.md)
+- [唯一列用普通索引还是唯一索引](./MySQL/唯一列用普通索引还是唯一索引.md)
+- [redolog与changebuffer的区别](./MySQL/redolog与changebuffer的区别.md)
+- [changebuffer是否总是可以提高性能](./MySQL/changebuffer是否总是可以提高性能.md)
 
 # Redis
 
