@@ -103,6 +103,7 @@
 # Spring
 
 - [Aop思想](./Spring/Aop思想.md)
+- [autowired&resource](./Spring/autowired&resource.md)
 
 # Linux
 
