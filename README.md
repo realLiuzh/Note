@@ -96,6 +96,7 @@
 - [线程池参数设置](./Java并发/线程池参数设置.md)
 - [线程安全的集合](./Java并发/线程安全的集合.md)
 - [synchronized原理](./Java并发/synchronized原理.md)
+- [synchronized优化](./Java并发/synchronized优化.md)
 
 # 设计模式
 
