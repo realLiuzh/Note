@@ -99,6 +99,7 @@
 - [synchronized优化](./Java并发/synchronized优化.md)
 - [volatile](./Java并发/volatile.md)
 - [syn与volatile区别](./Java并发/syn与volatile区别.md)
+- [syn与lock的区别](./Java并发/syn与lock的区别.md)
 
 # 设计模式
 
