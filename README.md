@@ -91,6 +91,7 @@
 - [ArrayList扩容机制](./Java集合/ArrayList扩容机制.md)
 - [HashMap为什么要引入红黑树](./Java集合/HashMap为什么要引入红黑树.md)
 - [HashMap为什么不一开始就树化](./Java集合/HashMap为什么不一开始就树化.md)
+- [HashMap树化阈值为什么是8](./Java集合/HashMap树化阈值为什么是8.md)
 
 # Java并发
 
