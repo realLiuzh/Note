@@ -94,6 +94,7 @@
 - [HashMap树化阈值为什么是8](./Java集合/HashMap树化阈值为什么是8.md)
 - [HashMap树退化时机](./Java集合/HashMap树退化时机)
 - [HashMap索引](./Java集合/HashMap索引.md)
+- [HashMap桶的容量为何为2的n次方幂](./Java集合/HashMap桶的容量为何为2的n次方幂)
 
 # Java并发
 
