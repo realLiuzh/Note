@@ -46,6 +46,8 @@
 - [唯一列用普通索引还是唯一索引](./MySQL/唯一列用普通索引还是唯一索引.md)
 - [redolog与changebuffer的区别](./MySQL/redolog与changebuffer的区别.md)
 - [changebuffer是否总是可以提高性能](./MySQL/changebuffer是否总是可以提高性能.md)
+- [索引优化手段](./MySQL/索引优化手段.md)
+- [索引为什么最好是自增的](./MySQL/索引为什么最好是自增的.md)
 
 # Redis
 
