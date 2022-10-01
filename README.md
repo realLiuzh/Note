@@ -87,6 +87,7 @@
 - [HashMap.put()](./Java集合/HashMapput().md)
 - [HashMap扩容时机](./Java集合/HashMap扩容时机.md)
 - [HashMap1.8的优化](./Java集合/HashMap1.8的优化.md)
+- [ArrayList扩容机制](./Java集合/ArrayList扩容机制.md)
 
 # Java并发
 
