@@ -107,6 +107,7 @@
 - [volatile](./Java并发/volatile.md)
 - [syn与volatile区别](./Java并发/syn与volatile区别.md)
 - [syn与lock的区别](./Java并发/syn与lock的区别.md)
+- [syn与ReentrantLock的区别](./Java并发/syn与ReentrantLock的区别.md)
 
 # 设计模式
 

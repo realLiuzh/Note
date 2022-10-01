@@ -1,6 +1,5 @@
 # syn与lock的区别
 
-- syn是实现线程同步的关键字；Lock是接口。
 - Lock提供了许多额外的功能：
   - 尝试非阻塞的获取锁。syn会阻塞；lock会返回false
   - 超时获取锁。超时返回false
