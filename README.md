@@ -96,6 +96,7 @@
 - [HashMap索引](./Java集合/HashMap索引.md)
 - [HashMap桶的容量为何为2的n次方幂](./Java集合/HashMap桶的容量为何为2的n次方幂)
 - [HashMap扩容因子的设计](./Java集合/HashMap扩容因子的设计.md)
+- [HashMap并发问题1.8](./Java集合/HashMap并发问题1.8.md)
 
 # Java并发
 
