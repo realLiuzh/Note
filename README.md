@@ -86,9 +86,11 @@
 - [ArrayList&LinkedList](./Java集合/ArrayList&LinkedList.md)
 - [HashMap.put()](./Java集合/HashMapput().md)
 - [HashMap扩容时机](./Java集合/HashMap扩容时机.md)
+- [HashMap树化时机](./Java集合/HashMap树化时机.md)
 - [HashMap1.8的优化](./Java集合/HashMap1.8的优化.md)
 - [ArrayList扩容机制](./Java集合/ArrayList扩容机制.md)
 - [HashMap为什么要引入红黑树](./Java集合/HashMap为什么要引入红黑树.md)
+- [HashMap为什么不一开始就树化](./Java集合/HashMap为什么不一开始就树化.md)
 
 # Java并发
 
