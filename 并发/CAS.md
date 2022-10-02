@@ -21,3 +21,10 @@ public final int incrementAndGet() {
 }
 ```
 
+
+
+存在问题：
+
+- ABA
+- 循环cpu消耗大
+- 只能对一个变量进行原子操作
