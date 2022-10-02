@@ -58,6 +58,7 @@
 - [持久化策略-RDB](./Redis/持久化策略-RDB.md)
 - [持久化策略-AOF](./Redis/持久化策略-AOF.md)
 - [重启过程](./Redis/重启过程.md)
+- [最终一致性](./Redis/最终一致性.md)
 
 # JVM
 
