@@ -123,6 +123,7 @@
 - [syn与lock的区别](./并发/syn与lock的区别.md)
 - [syn与ReentrantLock的区别](./并发/syn与ReentrantLock的区别.md)
 - [AQS基础](./并发/AQS基础)
+- [./并发/偏向锁.md]
 
 # 设计模式
 
