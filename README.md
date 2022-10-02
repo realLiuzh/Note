@@ -129,6 +129,7 @@
 - [锁对比](./并发/锁对比.md)
 - [CAS](./并发/CAS.md)
 - [ABA](./并发/ABA.md)
+- [ThreadLocal](./并发/ThreadLocal.md)
 
 # 设计模式
 
