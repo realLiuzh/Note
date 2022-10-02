@@ -114,14 +114,15 @@
 - [线程池创建方法](./并发/线程池创建方法.md)
 - [线程池生命周期](./并发/线程池生命周期.md)
 - [线程池执行流程](./并发/线程池执行流程.md)
-- [线程池参数设置](./Java并发/线程池参数设置.md)
-- [线程安全的集合](./Java并发/线程安全的集合.md)
-- [synchronized原理](./Java并发/synchronized原理.md)
-- [synchronized优化](./Java并发/synchronized优化.md)
-- [volatile](./Java并发/volatile.md)
-- [syn与volatile区别](./Java并发/syn与volatile区别.md)
-- [syn与lock的区别](./Java并发/syn与lock的区别.md)
-- [syn与ReentrantLock的区别](./Java并发/syn与ReentrantLock的区别.md)
+- [线程池参数设置](./并发/线程池参数设置.md)
+- [线程安全的集合](./并发/线程安全的集合.md)
+- [synchronized原理](./并发/synchronized原理.md)
+- [synchronized优化](./并发/synchronized优化.md)
+- [volatile](./并发/volatile.md)
+- [syn与volatile区别](./并发/syn与volatile区别.md)
+- [syn与lock的区别](./并发/syn与lock的区别.md)
+- [syn与ReentrantLock的区别](./并发/syn与ReentrantLock的区别.md)
+- [AQS基础](./并发/AQS基础)
 
 # 设计模式
 
