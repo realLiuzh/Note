@@ -131,6 +131,7 @@
 
 - [Aop思想](./Spring/Aop思想.md)
 - [autowired&resource](./Spring/autowired&resource.md)
+- [IOC思想](./Spring/IOC思想.md)
 
 # Linux
 
