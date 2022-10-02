@@ -130,6 +130,7 @@
 - [CAS](./并发/CAS.md)
 - [ABA](./并发/ABA.md)
 - [ThreadLocal](./并发/ThreadLocal.md)
+- [ThreadLocal内存泄露](./并发/ThreadLocal内存泄露.md)
 
 # 设计模式
 
