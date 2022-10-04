@@ -38,6 +38,8 @@
 - [DNS过程](./计算机网络/DNS过程.md)
 - [http长连接](./计算机网络/http长连接.md)
 - [TCP长连接](./计算机网络/TCP长连接.md)
+- [HTTPS](./计算机网络/HTTPS.md)
+- [HTTP](./计算机网络/HTTP.md)
 
 
 
