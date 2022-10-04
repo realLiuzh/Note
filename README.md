@@ -55,6 +55,7 @@
 - [changebuffer是否总是可以提高性能](./MySQL/changebuffer是否总是可以提高性能.md)
 - [索引优化手段](./MySQL/索引优化手段.md)
 - [索引为什么最好是自增的](./MySQL/索引为什么最好是自增的.md)
+- [全局锁](./MySQL/全局锁.md)
 
 # Redis
 
