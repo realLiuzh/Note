@@ -125,7 +125,7 @@
 - [syn与volatile区别](./并发/syn与volatile区别.md)
 - [syn与lock的区别](./并发/syn与lock的区别.md)
 - [syn与ReentrantLock的区别](./并发/syn与ReentrantLock的区别.md)
-- [AQS基础](./并发/AQS基础)
+- [AQS基础](./并发/AQS基础.md)
 - [偏向锁](./并发/偏向锁.md)
 - [轻量级锁](./并发/轻量级锁.md)
 - [锁对比](./并发/锁对比.md)
